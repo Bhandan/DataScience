@@ -1,7 +1,7 @@
 
 ###### This Data Science Practices project, to incress the expertise level #######
 
- ###### Technologies Used ##### 
+ ### Technologies Used ### 
  		
 		1.PySpark 
 		2.R 
@@ -26,16 +26,16 @@
 		7.Black Friday Data
 		8.Siam Competetion Data
 		9.Trips Histry Data
-		10. Million Songs Data
+		10.Million Songs Data
 		11. Census Data
 		12.Movie Lens Data
 		13.Idenify your  Digits
 		14. Yelp Data
 		15.ImageNet Data
-		16. KDD Cup 1998
-		17. Chicago Crime Data
-		18.NewYork Yello  texi Data
-		19.NewYork Green texi Data
+		16.KDD Cup 1998
+		17.Chicago Crime Data
+		18.NewYork Yellow Taxi Data
+		19.NewYork Green Taxi Data
 		
  
 
@@ -50,7 +50,7 @@
 		
 		1.Naive Bayes: 
 		2.Support Vector Machines:
-		3.Decission Trees:
+		3.Decision Trees:
 		
 
 
@@ -59,7 +59,7 @@
 			
 			1.Logistic Regression 
 			2.Naive Bayes
-			3.Decission Trees
+			3.Decision Trees
 			4.Random Forests
 			5.Gaussian Naive Bayes
 			6.Support Vector Machines, Linear SVC, POLY, RBF
