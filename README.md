@@ -1,7 +1,11 @@
 ###### This Data Science Practices project, to incress the expertise level #######. 
 
- -->Technologies Used: 1. PySpark 2. R 3. Python
- --> Data-Analytics Techniques:
+ ###### Technologies Used:##### 
+ 		1.PySpark 
+		2.R 
+		3.Python
+ 
+ ##### Data-Analytics Techniques:####
  
  		1.Principal Component Analysis(PCI)
 		2.Akiake Information criterion(AIC)
