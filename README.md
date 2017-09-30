@@ -1,7 +1,9 @@
-###### This Data Science Practices project, to incress the expertise level #######. 
 
- ###### Technologies Used:##### 
- 		1.PySpark 
+###### This Data Science Practices project, to incress the expertise level #######
+
+ ###### Technologies Used ##### 
+ 		
+		1.PySpark 
 		2.R 
 		3.Python
  
