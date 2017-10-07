@@ -15,7 +15,7 @@
 		4.Least Absolute Shrinkage and Selection Operator(LASSO)
 		
 		
-######## NUMBER OF PROJECTS FOR PRACTICES ########
+## NUMBER OF PROJECTS FOR PRACTICES ##
 
         1.Iris Data
 		2.Titanic Data
