@@ -1,3 +1,5 @@
-#train = pd.read_csv("train.csv")
-
-test = pd.read_csv("test.csv")
+import csv
+with open('train.csv') as csvDataFile:
+    csvReader = csv.reader(csvDataFile)
+    for row in csvReader:
+        print(row)
