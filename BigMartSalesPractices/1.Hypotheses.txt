@@ -1,0 +1,19 @@
+A.Store Level Hypotheses: 
+	1.City type
+	2.Population Density
+	3.Store Capacity
+	4.Competitors
+	5.Marketing
+	6.Location
+	7.Customer Behavior
+	8.Ambiance etc.
+	
+B.Product Level Hypotheses:
+	1.Brand
+	2.Packaging
+	3.Utility
+	4.Display Area
+	5.Visibility in Store
+	6.Advertising
+	7.Promotional Offers etc.
+	

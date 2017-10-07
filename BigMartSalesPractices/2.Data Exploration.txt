@@ -1,0 +1,15 @@
+A.Data Exploration and Preparation
+	1.Variable Identification(Type of variable, Data Type, variable Category)
+	2.Univariate Analysis
+	3.Bi-variate Analysis(Correlation = Covariance(X,Y) / SQRT( Var(X)* Var(Y)))
+	4.Missing values treatment 
+	5.Outlier treatment(Univariate,Multivariate)
+			a.Data Entry Errors
+			b.Measurement Error
+			c.Experimental Error
+			d.Intentional Outlier
+			e.Data Processing Error
+			f.Sampling error
+			g.Natural Outlier
+	6.Variable transformation
+	7.Variable creation
