@@ -55,7 +55,7 @@
 
 
 
---> Classification
+#### ALGORITHMS APPLIED 
 			
 			1.Logistic Regression 
 			2.Naive Bayes
@@ -64,10 +64,8 @@
 			5.Gaussian Naive Bayes
 			6.Support Vector Machines, Linear SVC, POLY, RBF
 			7.Generalized Linear Model(GML)
---> Regression
-			
-			1.Linear Regression
-			2.Polynomial Regression 
+			8.Linear Regression
+			9.Polynomial Regression 
 			
 			
 
