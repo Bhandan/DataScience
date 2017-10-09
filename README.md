@@ -1,6 +1,6 @@
 ###### This Data Science Practices project, to incress the expertise level #######
 
-### Technologies Used ### 
+### Technologies Used 
  		
 		1.PySpark 
 		2.Pandas
@@ -13,7 +13,7 @@
 	C. Semi-supervised Learning 
 	D. Reinforcement Learning
 
-##### Machine Learning Algorithms ######	
+##### Machine Learning Algorithms
 		1. Linear Regression				
 
 					#Python
