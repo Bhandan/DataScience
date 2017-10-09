@@ -1,15 +1,14 @@
 
 ###### This Data Science Practices project, to incress the expertise level #######
-
- ### Technologies Used ### 
+### Technologies Used ### 
  		
 		1.PySpark 
 		2.Pandas
 		3.Python
 		4.R
- 
- ### MODELS ARE USED ###
- 	A. Supervised Learning
+### MODELS ARE USED ###
+
+	A. Supervised Learning
 	B. Unsupervised
 	C. Semi-supervised Learning 
 	D. Reinforcement Learning
