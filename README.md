@@ -24,9 +24,8 @@
 		19.NewYork Green Taxi Data
 
 		
-### Technologies Used ### 
- 		
-		1.PySpark 
+ ### Technologies Used ### 
+ 		1.PySpark 
 		2.Pandas
 		3.Python
 		4.R
@@ -300,8 +299,3 @@
 				print(report)
 				importance <- varImp(report, scale = FALSE)
 				print(importance)
-				 
-				
-			
-			
-
