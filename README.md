@@ -1,7 +1,13 @@
 
 ###### This Data Science Practices project, to incress the expertise level #######
 
-######## NUMBER OF PROJECTS FOR PRACTICES ########
+### TECHNOLOGY USED ### 
+ 		1.PySpark 
+		2.Pandas
+		3.R
+
+
+#### NUMBER OF PROJECTS FOR PRACTICES ###
 
         1.Iris Data
 		2.Titanic Data
@@ -23,14 +29,7 @@
 		18.NewYork Yellow Taxi Data
 		19.NewYork Green Taxi Data
 
-		
-### Technologies Used ### 
- 		1.PySpark 
-		2.Pandas
-		3.Python
-		4.R
-		
- 
+		 
 ### MODELS ARE USED ###
 	
  	A. Supervised Learning
