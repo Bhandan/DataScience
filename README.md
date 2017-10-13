@@ -14,23 +14,16 @@
 		8.Siam Competetion Data
 		9.Trips Histry Data
 		10.Million Songs Data
-		11. Census Data
+		11.Census Data
 		12.Movie Lens Data
 		13.Idenify your  Digits
-		14. Yelp Data
+		14.Yelp Data
 		15.ImageNet Data
 		16.KDD Cup 1998
 		17.Chicago Crime Data
 		18.NewYork Yellow Taxi Data
 		19.NewYork Green Taxi Data
 
-		
-### Technologies Used ### 
- 		1.PySpark 
-		2.Pandas
-		3.Python
-		4.R
-		
  
 ### MODELS ARE USED ###
 	
@@ -244,24 +237,25 @@
 				
 				
 			10.3. LightGBM
-							a.Faster training speed and higher efficiency
-							b.Lower memory usage
-							c.Better accuracy
-							d.Parallel and GPU learning supported
-							e.Capable of handling large-scale data
+						a.Faster training speed and higher efficiency
+						b.Lower memory usage
+						c.Better accuracy
+						d.Parallel and GPU learning supported
+						e.Capable of handling large-scale data
+				
 				#Python 
 					
-					data = np.random.rand(500, 10) 
-					label = np.random.randint(2, size=500)
-					train_data = lgb.Dataset(data, label=label)
-					test_data = train_data.create_valid('test.svm')
-					param = {'num_leaves':31, 'num_trees':100, 'objective':'binary'}
-					param['metric'] = 'auc'
-					num_round = 10
-					bst = lgb.train(param, train_data, num_round, valid_sets=[test_data])
-					bst.save_model('model.txt')
-					data = np.random.rand(7, 10)
-					ypred = bst.predict(data)
+				data = np.random.rand(500, 10) 
+				label = np.random.randint(2, size=500)
+				train_data = lgb.Dataset(data, label=label)
+				test_data = train_data.create_valid('test.svm')
+				param = {'num_leaves':31, 'num_trees':100, 'objective':'binary'}
+				param['metric'] = 'auc'
+				num_round = 10
+				bst = lgb.train(param, train_data, num_round, valid_sets=[test_data])
+				bst.save_model('model.txt')
+				data = np.random.rand(7, 10)
+				ypred = bst.predict(data)
 					
 					
 				#R 
