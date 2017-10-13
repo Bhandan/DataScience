@@ -119,8 +119,7 @@
 					
 		5. Naive Bayes
 					
-						
-							
+												
 						[P(c/X)=P(x1/c)*P(x2/c)*........*P(xn/c)*P(c)]
 						
 					#Python
