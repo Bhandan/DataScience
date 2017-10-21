@@ -19,15 +19,16 @@
 		8.Siam Competetion Data
 		9.Trips Histry Data
 		10.Million Songs Data
-		11. Census Data
+		11.Census Data
 		12.Movie Lens Data
 		13.Idenify your  Digits
-		14. Yelp Data
+		14.Yelp Data
 		15.ImageNet Data
 		16.KDD Cup 1998
 		17.Chicago Crime Data
-		18.NewYork Yellow Taxi Data
-		19.NewYork Green Taxi Data
+		18.New York Yellow Taxi Data
+		19.New York Green Taxi Data
+		20.Chipotle DataSet Practices 
 
 		 
 ### MODELS ARE USED ###
