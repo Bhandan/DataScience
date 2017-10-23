@@ -1,0 +1,13 @@
+import pandas as pd
+
+employee_names_table='path/employee_names.csv'
+employee_cols=['id','first_name','last_name']
+employees_names=pd.read_table(employee_names_table, sep=',', header=None, names=employee_cols, usecols=[0,1,2])
+
+employee_pay_table='path/employee_names.csv'
+employee_pay_cols=['id','salary','bonus']
+employees_pay=pd.read_table(employee_pay_table, sep=',', header=None, names=employee_pay_cols, usecols=[0,1,2])
+
+leftouter_join=pd.merge(employees_names,employees_pay, how='left')
+leftouter_join
+
